@@ -1,0 +1,13 @@
+Fri Feb 15 2013 09:17:23 GMT-0500 (Eastern Standard Time):
+[Error: Please specify one of these flags: --aspWAP, --aspWebSite, --php, --python, --basic or --node]
+Error: Please specify one of these flags: --aspWAP, --aspWebSite, --php, --python, --basic or --node
+    at __$__2 (c:\Users\pbo\AppData\Roaming\npm\node_modules\azure-cli\lib\commands\site.js:133:18)
+    at __func (c:\Users\pbo\AppData\Roaming\npm\node_modules\azure-cli\node_modules\streamline\lib\callbacks\runtime.js:17:5)
+    at Command.__2 (c:\Users\pbo\AppData\Roaming\npm\node_modules\azure-cli\lib\commands\site.js:101:1365)
+    at Command.commander.Command.execute (c:\Users\pbo\AppData\Roaming\npm\node_modules\azure-cli\lib\cli.js:453:10)
+    at Command.action (c:\Users\pbo\AppData\Roaming\npm\node_modules\azure-cli\node_modules\commander\lib\commander.js:235:8)
+    at Command.EventEmitter.emit (events.js:126:20)
+    at Command.parseArgs (c:\Users\pbo\AppData\Roaming\npm\node_modules\azure-cli\node_modules\commander\lib\commander.js:405:12)
+    at Command.parse (c:\Users\pbo\AppData\Roaming\npm\node_modules\azure-cli\node_modules\commander\lib\commander.js:351:15)
+    at Command.<anonymous> (c:\Users\pbo\AppData\Roaming\npm\node_modules\azure-cli\lib\cli.js:321:36)
+    at Command.EventEmitter.emit (events.js:96:17)
